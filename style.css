@@ -1,0 +1,60 @@
+p , h1
+{
+    color: black;
+    text-align: center;
+    font-size: 100px;
+}
+
+#b1 
+{
+    text-align: center;
+    color:white;
+    background-color: yellow;
+    width:300px;
+    height:100px;
+    font-size: 50px;
+    border-radius: 50%;
+
+}
+
+#b2
+{
+    text-align: center;
+    color:white;
+    background-color: red;
+    width:300px;
+    height:100px;
+    font-size: 50px;
+    border-radius: 50%;
+
+
+}
+
+#b3
+{
+    text-align: center;
+    color:white;
+    background-color: orange;
+    width:300px;
+    height:100px;
+    font-size: 50px;
+    border-radius: 50%;
+}
+
+.container
+{
+    display:flex;
+    justify-content: center;
+    
+    
+    
+    
+}
+
+body
+{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHz4iLuOlsvHCJTupdbo5Z8MtFCpXJNHIdlA&usqp=CAU');
+}
+
+
+
